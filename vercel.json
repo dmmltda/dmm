@@ -1,6 +1,6 @@
 {
-    "version": 2,
-    "framework": "nextjs",
-    "cleanUrls": true,
-    "regions": ["sao1"]
+      "version": 2,
+      "framework": "nextjs",
+      "cleanUrls": true,
+      "regions": ["gru1"]
 }
